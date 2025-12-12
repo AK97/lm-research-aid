@@ -2,7 +2,7 @@ import streamlit as st
 from src.rag import RAG_Handler
 
 st.set_page_config(layout = "wide")
-st.title("NbCl Title")
+st.title("StudyLM Research Aid")
 
 left, right = st.columns([4,1])
 
