@@ -4,3 +4,5 @@ fly.toml
 Dockerfile
 .dockerignore
 .DS_Store
+venv
+__pycache__
